@@ -1,0 +1,31 @@
+.body{
+    background-image: url(Pastelbg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    height: 10;
+    width: 10;
+}
+.heading{
+    color: #4c267ec9;
+    font-family: cursive;
+}
+.description{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sub-head{
+    font-family: sans-serif;
+    color:#38274e ;
+    padding: 5%;
+}
+.card{
+    margin: 4%;
+}
+.icon{
+    height: 10px;
+    width: 10px;
+    float: left;
+    padding: 5%;
+}
